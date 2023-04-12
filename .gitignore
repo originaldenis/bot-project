@@ -1,0 +1,4 @@
+*.iml
+../lesson3.py
+*.DS_Store
+.idea/
